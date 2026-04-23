@@ -124,9 +124,5 @@ This project is based on a research study on traffic congestion patterns in smar
 **Phani Tejaswi Peethani**
 B.Tech Computer Science Engineering
 
----
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share it!
 
