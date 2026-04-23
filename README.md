@@ -93,28 +93,7 @@ traffic_project/
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1. Clone Repository
-
-```
-git clone https://github.com/your-username/traffic-congestion-dashboard.git
-cd traffic-congestion-dashboard
-```
-
-### 2. Install Dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3. Run Application
-
-```
-streamlit run src/app.py
-```
-
----
 
 ## 📈 Sample Output
 
