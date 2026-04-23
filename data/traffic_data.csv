@@ -1,0 +1,7 @@
+timestamp,location_id,vehicles,road_capacity,zone
+2024-01-01 07:00,1,1200,1500,CBD
+2024-01-01 08:00,1,1300,1500,CBD
+2024-01-01 18:00,2,1400,1500,Industrial
+2024-01-01 12:00,3,700,1500,Residential
+2024-01-02 14:00,3,900,1500,Residential
+2024-01-02 20:00,2,300,1500,Industrial
